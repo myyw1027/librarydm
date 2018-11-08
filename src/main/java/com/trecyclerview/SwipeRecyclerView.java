@@ -39,7 +39,7 @@ public class SwipeRecyclerView extends RecyclerView {
 
     private boolean mRefreshing = false;
 
-    private boolean isNoMore = false; //true 没有更多
+    private boolean isNoMore = false; //true 没有
 
     private boolean isBottom;
 
